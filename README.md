@@ -1,4 +1,4 @@
-# Medicinal-Plant-Detection-App-Projec-Model-Creation
+# Medicinal-Plant-Detection-App-Project-Model-Creation
 It is an image classification model build up using PyTorch, which is an optimized Deep Learning tensor library based on Python and Torch and is mainly used for applications using GPUs and CPUs.
 PyTorch is favored over other Deep Learning frameworks like TensorFlow and Keras since it uses dynamic computation graphs and is completely Pythonic.
 
